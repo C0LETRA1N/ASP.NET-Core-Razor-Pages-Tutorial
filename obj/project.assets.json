@@ -13285,11 +13285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ccole71/Documents/RazorPagesWebApp/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectUniqueName": "/Users/ccole71/Documents/ASP.NET-Core-Razor-Pages-Tutorial/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/Users/ccole71/Documents/RazorPagesWebApp/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectPath": "/Users/ccole71/Documents/ASP.NET-Core-Razor-Pages-Tutorial/RazorPagesMovie.csproj",
       "packagesPath": "/Users/ccole71/.nuget/packages/",
-      "outputPath": "/Users/ccole71/Documents/RazorPagesWebApp/RazorPagesMovie/obj/",
+      "outputPath": "/Users/ccole71/Documents/ASP.NET-Core-Razor-Pages-Tutorial/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
